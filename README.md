@@ -9,3 +9,9 @@ Sou estudante do **5º período de Análise e Desenvolvimento de Sistemas** e es
 * Testes de Software (QA)
 * Python
 * Git e GitHub
+
+## 🚀 Foco Atual
+
+Atualmente, estou estudando Testes de Software na Aponti, aprimorando meus conhecimentos em QA, Git e boas práticas de qualidade de software.
+
+🔗 **LinkedIn:** www.linkedin.com/in/natalia-almeida-dev
